@@ -1,0 +1,10 @@
+# Generate WildFly Galleon Feature Packs metadata
+
+Execute with:
+
+[source,bash]
+----
+./run.sh
+----
+
+The metadata will be generated in `target/versions.yaml`.
